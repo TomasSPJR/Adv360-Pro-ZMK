@@ -1,9 +1,3 @@
-macro_r_arrow_=: macro_r_arrow_={
-compatible = "zmk,behavior-macro";
-label = "macro_r_arrow_=";
-#binding-cells = <0>;
-bindings = <&kp KP_EQUAL>, <&kp GT>;
-};
 macro_r_arrow: macro_r_arrow{
 compatible = "zmk,behavior-macro";
 label = "macro_r_arrow";
